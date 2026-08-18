@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+*.backup
+foodloop-backup-*.json
+foodloop-archivo-*.json
+foodloop-historico-*.csv
